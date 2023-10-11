@@ -1,0 +1,40 @@
+body{
+    background-color: #D5D8DC ;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 2rem;
+    
+}
+
+/*table styling*/
+div{
+    width: 20px;
+}
+table,tr,th,td {
+    border: 2px solid;
+    border-collapse: collapse;
+    border-top:  4px;
+    margin-left: 500px;
+    
+    
+}
+th{
+    background-color: #2E8B57;
+    color: floralwhite;
+    padding: 10px;
+    width: 2rem;
+}
+/*Remove table th,td,td borders*/
+table,th,td{
+    border: none;
+}table td{
+    padding: 10px;
+}
+.two{
+    color:#2E8B57;
+}
+tr{
+    border-collapse: collapse;
+}
+
+

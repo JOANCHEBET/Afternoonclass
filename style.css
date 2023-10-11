@@ -1,0 +1,46 @@
+body{
+    background: aquamarine;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+color: aliceblue;
+    background: #FF5733;
+    border-radius: 5px;
+    font-size: 30px;
+}
+h1{
+    background: blue;
+    border-radius: 5px;
+    outline-style: solid;
+}
+.five{
+    border-radius: 5px;
+    width: 250px;
+}
+div{
+    background: antiquewhite;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+.login{
+    color: blue;
+    font-size: larger;
+    width: 50%;
+    margin: auto;
+}
+.login:hover{
+background: #FF5733;
+    font-size: larger;
+}
+.user{
+    border-radius: 4px;
+}
+.password{
+    border-radius: 4px;
+}
+.submit{
+    border-radius: 4px;
+}

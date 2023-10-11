@@ -1,0 +1,25 @@
+body{
+    margin-left: 500px;
+}
+p{
+    
+}
+hr{
+    margin-right: 100px;
+}
+
+
+select{
+    background-color: yellowgreen;
+}
+option:hover{
+    color: blue;
+}
+option{
+    color: darkgoldenrod;
+}
+.Choose{
+    color: whitesmoke;
+}
+
+
